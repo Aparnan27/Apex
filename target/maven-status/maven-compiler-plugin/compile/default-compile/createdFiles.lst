@@ -1,0 +1,7 @@
+com\FM\api\property\service\impl\PropertyServiceImpl.class
+com\FM\api\property\entity\Address.class
+com\FM\api\property\entity\Property.class
+com\FM\api\property\client\FMServiceRestClient.class
+com\FM\api\property\service\PropertyService.class
+com\FM\api\property\controller\PropertyController.class
+com\FM\api\property\handler\FMResponseErrorHandler.class
